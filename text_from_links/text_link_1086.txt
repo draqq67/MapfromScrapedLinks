@@ -1,0 +1,219 @@
+Compatible apps
+Security
+Pricing
+Partners
+Help
+Log in
+Try for free
+Synchronize your contacts easily and fully automatically  across all your devices and applications. Save yourself many hours of manual work. 
+Easy, safe and quick to set up.
+  Proud of our customers
+sync.blue® is used in major companies
+More success with sync.blue®
+Get the most out of your business and increase your ROI by bridging the gap between marketing, sales and customer care.
+  True 2-way sync
+With sync.blue® your contacts remain synchronized across all company applications and devices. In one direction, in both directions. Hourly. Any way you want.
+360 degree overview
+sync.blue® enables you to consolidate customer contacts from different applications and thus get a 360° view of your customers.
+Efficient use of data
+Whether for your phone books, reports or campaigns, sync.blue® helps you and your teams to make data-driven decisions at the highest level and with the most up-to-date data.
+Synchronize popular apps
+We support syncing a wide range of applications and are constantly expanding the list.
+Popular
+Groupware
+CRM
+Communications
+Protocols
+SQL
+
+Microsoft Dynamics 365
+CRM
+ALL-INKL.COM
+Groupware
+Alcatel-Lucent Rainbow Office Softphone
+Communication
+AGFEO
+Communication
+API
+Protocol
+Android
+OS
+AGFEOtel
+Communication
+AVM FRITZ!Box
+Communication
+Apple OSX
+OS
+Discover all apps
+Why businesses choose sync.blue®
+An advanced solution designed to meet your  business needs
+Easy setup
+Intuitive and highly modern setup with just a few clicks. No programming knowledge required.
+Secure & GDPR compliant
+ We guarantee you a secure solution taking into account all strict data protection requirements. Made in Germany.
+Hosted in Germany.
+New apps every week
+We already support syncing many apps and we are launching a new one every week based on the votes of our customers.
+Try for free
+"It just worked. Logged in, set up, done.
+Thank you!"
+Konstantin Krieger
+LIQUITCOM GmbH
+How you start syncing?
+Just 3 simple steps to start using sync.blue®.
+The setup takes less than 5 minutes. It's easy and secure.
+1. Choose your apps
+2. Configure
+Select and authorize the apps you
+want to sync with each other.
+Choose your sync interval and direction.
+3.Sync!
+Enjoy your newfound free time
+and let sync.blue® take care of the rest
+Try for free
+Professional live support
+  We support you individually and free of charge with your configuration. In just 5 minutes we have your desired solution put together in a simple, safe and fast way.
+  Contact us
+Here we go
+Try sync.blue® now for free and synchronize your contacts in less than 5 minutes.
+Professional support
+Secure and GDPR compliant
+Compatible with many of your apps
+Try for free
+Use cases
+Avoid manual data entry
+Save time
+Sync contacts
+Features
+Sync contacts
+Sync leads
+Sync opportunities
+Compatible systems
+CRM
+GroupWare
+ERP
+Webshop
+Ticketing software
+Database
+Cashbox
+Newsletter
+Feedback tools
+File formats
+CSV
+Protocols
+HTTP
+HTTPS
+Operating systems
+Microsoft Windows
+Mac
+macOS
+Apple
+OSX
+iOS
+Linux
+Chrome
+Compatible apps
+Agfeo
+Alcatel-Lucent
+Android
+Apple iCloud
+AppleiOS
+Apple macOS
+Apple OSX
+Autotask PSA
+AVM FRITZ!Box
+CardDAV
+DAVx
+DocBee
+fruux
+Estos MetaDirectory
+Google Contacts
+Google Gmail
+Google Directory
+Google G Suite
+Google Sheets
+HIW rendite
+Hornet.email
+Hotmail
+HubSpot
+IMMOWARE24
+Impower
+INOPLA
+Kerio Connect
+LDAP directory
+Microsoft 365
+Microsoft Active Directory
+MicrosoftOutlook
+Microsoft Office 365
+Microsoft Entra ID
+Microsoft Exchange
+Microsoft Excel
+Microsoft Dynamics 365
+Microsoft Dynamics 365
+Microsoft Intune
+Business Central (NAV, Navision)
+Microsoft SharePoint
+Microsoft SQL Server
+Microsoft Teams
+MOCO
+Mozilla Thunderbird
+MariaDB
+MySQL
+Nextcloud
+NFON
+O2 digital phone
+Outlook.com
+ownCloud
+PhoneSuite
+pipedrive
+Placetel
+ProCos ERP
+RingCentral
+salesforce
+sipgate
+SugarCRM
+STARFACE
+SWYX
+Synology
+Unify
+weclapp
+Windows Live
+XELION
+Yealink
+Zendesk
+Zoho
+Suggest app
+Also known from
+Google Workspace: sync.blue
+Microsoft 365: sync.blue
+weclapp: sync.blue
+weclapp: Apple iCloud
+weclapp: Placetel
+weclapp: Microsoft 365
+Placetel: Microsoft 365
+Capterra
+Jobs
+Software developer
+Enterprise Account Manager
+More info
+Prices
+help
+blog
+road map
+feedback
+Partner Directory
+flyers
+Social media
+LinkedIn partner community
+youtube
+International
+German
+English
+Legal
+imprint
+Terms of Contract
+privacy
+Data privacy
+Icons by http://www.icons8.de
+Try now
+sync.blue is an alternative to  estos MetaDirectory ,  C4B XPhone Virtual Directory, OpenLDAP, PhoneMondo® (by Scavix Software GmbH & Co. KG( , Mondago, PieSync , syncgene.com, syncspider.com and others.

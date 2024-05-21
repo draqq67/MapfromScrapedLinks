@@ -1,0 +1,128 @@
+SOFTWARE ARCHITECTURE CAMP
+Trainings for Professionals
+iSAQB-zertifiziertes & international
+anerkanntes Training für Softwarearchitekt:innen
+Das Weiterbildungsprogramm für Softwarearchitekt:innen
+Von Foundation (CPSA-F) über Advanced (CPSA-A) zum iSAQB-certified Professional.
+Die dynamische Welt der IT-Projekte ist komplex und ständig im Wandel, weshalb fundierte Kenntnisse der Softwarearchitektur unerlässlich sind. Hier kommen Softwarearchitekt:innen ins Spiel. Sie sind die Baumeister, die die Grundlagen für erfolgreiche Softwarelösungen schaffen. Unser Softwarearchitektur-Trainingsprogramm ist Ihre Eintrittskarte in diese faszinierende Welt und bietet eine umfassende Einführung, um Ihre Expertise aufzubauen.
+Das iSAQB „Certified Professional for Software Architecture“ Programm ist ein weltweit anerkanntes und standardisiertes Ausbildungsprogramm für Softwarearchitekt:innen.
+Das Programm wendet sich an Sie, wenn Sie in IT-Projekten an Lösungsstrukturen arbeiten: Vorrangig Softwarearchitekt:innen, Entwickler:innen und Qualitätssicherer, aber auch an Systemanalytiker:innen, die mit ihren Entwickler:innen besser kommunizieren wollen.
+Foundation Level (CPSA-F)
+International anerkannte iSAQB-Zertifizierung
+Umfassendes Training für angehende Softwarearchitekt:innen, als solide Grundlage für ihre Karriere
+Sie lernen, klare Anforderungen in robuste Softwarestrukturen umzusetzen, angemessene Softwarearchitekturen zu entwerfen und zu dokumentieren, sowie deren Qualität zu sichern und zu bewerten
+Die Schulungsinhalte umfassen die Rolle und Verantwortung einer Softwarearchitekt:in in Projekten sowie State-of-the-Art-Methoden und Techniken zur Entwicklung von Softwarearchitekturen
+Sie lernen mit anderen Projektbeteiligten zusammenarbeiten, selbstständig Softwarearchitekturen für kleine und mittlere Systeme zu entwerfen
+Infos & Termine
+Advanced Level (CPSA-A)
+Die nächste Stufe der iSAQB-Zertifizierung bietet eine vertiefende Expertise in den Bereichen Methodik, Technik und Kommunikation
+Unsere Advanced Module befähigen Sie mittlere bis große IT-Systeme eigenständig und methodisch fundiert zu entwerfen
+CPSA-A-zertifizierte Expert:innen können technische und inhaltliche Verantwortung in kritischen IT-Systemen übernehmen
+Sie können nicht funktionale Anforderungen konzipieren und dokumentieren, Entwicklungsteams bei der Umsetzung unterstützen und architekturrelevante Kommunikation in großen Teams steuern
+Infos & Termine
+Trainerinnen und Trainer
+
+Bianca Lutz
+Active Group GmbH
+
+Marcus Crestani
+Active Group GmbH
+
+Dr. Dehla Sokenou
+Workplace Solutions GmbH
+
+Dr. Michael Sperber
+Active Group
+
+Simon Härer
+Active Group GmbH
+
+Kai Bühner
+Workplace Solutions GmbH
+Alle Trainer
+Nächste Termine
+FOUNDATION LEVEL
+13. – 17. Mai 2024
+München
+FOUNDATION LEVEL
+10. – 13. Jun 2024
+Berlin
+FOUNDATION LEVEL
+08. – 11. Jul 2024
+München
+ADVANCED LEVEL
+Modul IMPROVE
+23. – 25. Apr 2024
+München
+ADVANCED LEVEL
+Modul WEBSEC
+13. – 15. Mai 2024
+München
+ADVANCED LEVEL
+Modul ARCEVAL
+27. – 28. Mai 2024
+Berlin
+Alle Termine
+FOUNDATION LEVEL
+ADVANCED LEVEL
+
+
+
+
+
+
+
+
+
+
+
+
+präsentiert von
+powered by
+FOUNDATION LEVEL (iSAQB)
+Software Architecture Camp – Foundation & Workshop Soft Skills
+13. bis 17. Mai 2024, München
+10. bis 13. Jun 2024, Berlin
+08. bis 11. Jul 2024, München
+02. bis 06. Sep 2024, Berlin
+07. bis 10. Okt 2024, München
+04. bis 08. Nov 2024, Düsseldorf
+ADVANCED LEVEL (iSAQB)
+Modul ADOC – Architekturdokumentation
+17. bis 18. Sep 2024, Berlin
+Modul ARCEVAL – Architekturbewertung – Softwarearchitekturen reflektieren
+27. bis 28. Mai 2024, Berlin
+05. bis 06. Nov 2024, München
+Modul CLOUDINFRA – Infrastruktur, Container und Cloud Native
+09. bis 11. Sep 2024, Berlin
+25. bis 27. Nov 2024, München
+Modul DDD – Domain-Driven Design
+09. bis 11. Jul 2024, Berlin
+07. bis 09. Okt 2024, München
+Modul DSL – Domänenspezifische Sprachen
+09. bis 11. Jul 2024, online
+Modul FLEX – Flexible Architekturen: Microservices, Self-contained Systems und Continuous Delivery
+10. bis 13. Jun 2024, Berlin
+09. bis 12. Dez 2024, München
+Modul FUNAR – Funktionale Softwarearchitektur
+23. bis 26. Sep 2024, Berlin
+Modul SOFT – Soft Skills für Softwarearchitekten
+03. bis 05. Jun 2024, München
+04. bis 06. Nov 2024, Düsseldorf
+Modul WEBSEC – Web-Security
+13. bis 15. Mai 2024, München
+04. bis 06. Nov 2024, Berlin
+INHOUSE-SCHULUNG
+Die interne Weiterbildung mit unseren hochkarätigen Softwarearchitektur-Expert:innen bietet die Möglichkeit Workshops an betriebliche Bedürfnisse und interne Rahmenbedingungen des Unternehmens anzupassen und fördert die Kompetenzen der Mitarbeiter:innen maximal.
+
+MEHR ERFAHREN
+SOCIAL MEDIA
+Werden Sie Teil unserer Social Media Community!
+
+SPONSOR WERDEN!
+Sie wollen mit uns zusammenarbeiten?
+Kontaktieren Sie uns gerne für mehr Infos.
+KONTAKT AUFNEHMEN
+UNSERE MEDIENPARTNER
+© 2024 S&S MEDIA
+Datenschutz | Impressum | Teilnahmebedingungen | AGB | Kontakt

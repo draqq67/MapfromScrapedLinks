@@ -1,0 +1,156 @@
+300+ OF THE BEST SECURITY TEAMS USE VMRAY
+Unlock Clarity With
+Advanced Malware & Phishing Analysis
+Question about our pricing? Get a custom quote!
+Try VMRay
+Custom Quote
+17
+FORTUNE 100
+Companies
+4/5
+TOP TECH GIANTS
+of the World
+59
+GOVERNMENT
+Organizations
+37
+BANKING / FINANCE
+Organizations
+8/10
+TOP MSSPS
+in Europe
+17
+WORLD'S MOST VALUABLE
+100 Brands
+A MALWARE SANDBOX SOLUTION THAT SCALES WITH YOUR SECURITY TEAM
+Solve your toughest malware & phishing challenges
+1. Boost your SOC team’s productivity, maturity & ROI
+2. Simplify phishing analysis
+3. Maximize EDR effectiaveness
+4. Triage and enrich unknown malware
+5. Curate your own threat intel
+Learn More
+
+
+
+
+
+
+“We had to wait hours or even days to investigate such an attack but with VMRay I can have that done in less than 15 minutes”.
+Tyler Fornes, Principal Security Solutions Architect
+Expel
+Read Full Case Study
+
+
+
+
+
+
+
+
+
+
+
+Threat Feed Malicious
+See All
+51bb71bd446bd7fc03cc1234fcc3f489f10db44e312c9ce619b937fad6912656.exe.dll
+CLASSIFICATION:
+Downloader
+THREAT NAME:
+BumbleBee
+Full Analysis
+Download
+VMRay has enabled me to decrease manual analysis frequency and time and increase positive identification
+of malware samples.
+
+Connect with Ease Via Seamless Integrations
+Complete your security stack by bringing advanced threat detection capabilities to
+fight against unknown, evasive, and advanced threats.
+ Expand the value through built-in connectors with our strong network of alliances including all major EDR, SOAR, SIEM, and Threat Intelligence providers.
+ Connect to your custom-made systems with Rest API.
+Explore All Integrations
+Let VMRay Help You Achieve:
+Automate Security Tasks
+Filter out the noise and get fast and reliable verdicts with the single source of truth to activate effective security automation rules and playbooks. Mitigate the effects of alert fatigue and skills shortage on your SOC team.
+Validate, triage, and enrich alerts at scale, enjoy the silence within the storm.
+Definitive Verdicts
+Limitless scalability
+Seamless integrations
+Explore The Solution
+Nearly Half of Alerts are False Positive. Now You have the Solutions.
+Get Full Visibility
+Reduce Analysis Time
+Accelerate Incident Response
+Accelerate Analysis And Response
+Maximize Your Security Capabilities: Empower Your Malware and Phishing Analysis with Our Advanced Sandbox Technology.
+Detect and analyze unknown, advanced, evasive, or targeted threats and improve mean-time-to-detect (MTTD) and respond (MTTR).
+Explore The Solution
+55% of Analysts aren’t Co.fident in the Ability to respond. Now you have the Solution.
+Enable Reliable Threat Intelligence
+Cultivate threat intelligence on targeted, industry-specific,and previously unseen threats. Build unique and independent intelligence on threats you actually face in your system.
+Go beyond where 3rd party threat feeds can take, and stay ahead of  the ever-evolving threat landscape.
+Reliable & reusable output
+Complete & noise-free data & IOCs
+Independence from 3rd parties
+Explore The Solution
+77% of your peers consider CTI a Critical Priority. Now you have the Solution.
+Next Step:
+Take the Interactive Tour
+Watch demo videos
+Check sample reports
+TESTIMONIALS
+World's Best Trust Us For A Reason
+Tyler Fornes, Principal Security Solutions Architect
+★★★★★
+Expel, Global Leader In MDR
+We had to wait hours or even days for L2 or L3 teams to investigate such an attack but with VMRay I can have that done in less than 15 minutes.
+Vice President, Cyber Security Labs
+★★★★★
+Global Top 3 Cyber Security IR Services Provider
+VMRay is our deep sandbox analysis solution that has helped us reduce the workload of our manual analyses by 90%, from 1000s to 100s per day.
+More Success Stories
+Explore valuable Cybersecurity Resources
+Cybersecurity Blog
+Check our latest insights on malware, phishing, sandboxing, AI in cybersecurity, and much more.
+LEARN MORE
+VMRay Academy
+Browse the courses about alert handling, deep threat analysis and response, threat intelligence generation and more.
+BROWSE THE COURSES
+Malware Analysis Reports
+See real-world examples of VMRay’s best-in-class malware analysis and detection platform.
+ACCESS THE REPORTS
+Try VMRay Now
+Subscribe to our Newsletter
+Submit
+Solutions
+Alert Investigation for SOAR
+Alert Enrichment for EDR
+Incident Response
+Threat Hunting
+Threat Intel Extraction
+Detection Engineering
+User Reported Phishing
+Products
+VMRay DeepResponse
+VMRay FinalVerdict
+VMRay TotalInsight
+Analyzer (Retired)
+Professional Services
+Why VMRay
+VMRay Pricing
+VMRay Integrations
+VMRay Unparalleled
+VMRay Technologies
+Success Stories
+Resources
+Blog
+Academy
+Glossary
+Malware Analysis Reports
+MISSED THE HEADLINES?
+WE’RE FEATURED IN:
+© Copyright 2024 VMRay
+Careers
+Contact
+Privacy Policy
+Legal Information

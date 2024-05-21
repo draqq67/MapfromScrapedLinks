@@ -1,0 +1,263 @@
+OK
+SHOW DETAILS
+You control your data
+We and our business partners use technologies, including cookies, to collect information about you for various purposes, including:
+Statistical
+Marketing
+By clicking ‘Accept’, you give your consent for all these purposes. You can also choose to specify the purposes you consent to by ticking the checkbox next to the purpose and clicking ‘Save settings’.
+You may withdraw your consent at any time by clicking the small icon at the bottom left corner of the website.
+You can read more about how we use cookies and other technologies and how we collect and process personal data by clicking the link.
+Decline all
+COOKIE POLICY
+READ MORE ABOUT COOKIES
+Strictly necessary
+Strictly necessary cookies help make a website navigable by activating basic functions such as page navigation and access to secure website areas. Without these cookies, the website would not be able to work properly.
+Service: Cookie Information
+Purpose: Supports the website's technical functions.
+Privacy policy: https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry: a year
+Name: CookieInformationConsent
+Vendor: www.jetsgroup.com
+Functional
+Functional cookies make it possible to save information that changes the way the website appears or acts. For instance your preferred language or region.
+No cookies in this category
+Statistical
+Statistical cookies help the website owner understand how visitors interact with the website by collecting and reporting information.
+Service: Google Analytics
+Purpose: Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: a day
+Name: _gid
+Vendor: www.jetsgroup.com
+Service: Google Analytics
+Purpose:
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: 2 years
+Name: _ga_xxx
+Vendor: .jetsgroup.com
+Service: Google Analytics
+Purpose: Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: 2 years
+Name: _ga
+Vendor: www.jetsgroup.com
+Service: Google Analytics
+Purpose: Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: a few seconds
+Name: _gat_UA-xxx-xxx
+Vendor: .jetsgroup.com
+Service: Google Analytics
+Purpose: Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: a few seconds
+Name: _gat_gtag_UA_xxx_xxx
+Vendor: .jets.se
+Marketing
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and interesting to the individual user and thus more valuable for publishers and third-party advertisers.
+Service: LinkedIn
+Purpose: Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: a month
+Name: UserMatchHistory
+Vendor: .linkedin.com
+Service: LinkedIn
+Purpose: Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: 6 months
+Name: li_gc
+Vendor: .linkedin.com
+Service: Facebook
+Purpose: Identifies browsers for the purposes of providing advertising and site analytics services.
+Privacy policy: https://www.facebook.com/privacy/explanation
+Expiry: 3 months
+Name: _fbp
+Vendor: .jetsgroup.com
+Service: Google Marketing Platform
+Purpose: Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: a year
+Name: IDE
+Vendor: .doubleclick.net
+Service: TwentyThree
+Purpose: Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy: https://www.twentythree.net/policies
+Expiry: Session
+Name: CRAFT_CSRF_TOKEN
+Vendor: www.jetsgroup.com
+Service: LinkedIn
+Purpose: Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: 3 months
+Name: li_sugr
+Vendor: .linkedin.com
+Service: LinkedIn
+Purpose: Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: a month
+Name: AnalyticsSyncHistory
+Vendor: .linkedin.com
+Service: TwentyThree
+Purpose: Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy: https://www.twentythree.net/policies
+Expiry: Session
+Name: CraftSessionId
+Vendor: www.jetsgroup.com
+Service: Google
+Purpose: Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: 3 months
+Name: _gcl_au
+Vendor: .jetsgroup.com
+Service: LinkedIn
+Purpose: Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: a day
+Name: lidc
+Vendor: .linkedin.com
+Service: LinkedIn
+Purpose: Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy: https://www.linkedin.com/legal/privacy-policy
+Expiry: a year
+Name: bcookie
+Vendor: .linkedin.com
+Service: Youtube, Google
+Purpose: Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: Session
+Name: YSC
+Vendor: .youtube.com
+Service: Youtube, Google
+Purpose: Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: 6 months
+Name: VISITOR_INFO1_LIVE
+Vendor: .youtube.com
+Service: Youtube, Google
+Purpose: Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Privacy policy: https://policies.google.com/technologies/partner-sites?hl=en
+Expiry: 6 months
+Name: VISITOR_PRIVACY_METADATA
+Vendor: .youtube.com
+Service: Meta Platforms, Inc
+Purpose: Facebook's primary advertising cookie, used to deliver, measure and improve the relevancy of ads.
+Privacy policy: https://www.facebook.com/privacy/policy
+Expiry: 3 months
+Name: fr
+Vendor: .facebook.com
+Unclassified
+We are in the process of classifying unclassified cookies together with the providers of the individual cookies.
+Service:
+Purpose:
+Privacy policy:
+Expiry: a minute
+Name: shield-notbot-nonce
+Vendor: jets.se
+Service:
+Purpose:
+Privacy policy:
+Expiry: a few seconds
+Name: shield-notbot-nonce
+Vendor: www.jets.se
+Service:
+Purpose:
+Privacy policy:
+Expiry: 9 minutes
+Name: icwp-wpsf-notbot
+Vendor: jets.se
+
+
+Powered By:
+Cookie Information
+SAVE SETTINGS
+Find Representative
+|
+Service & Maintenance
+|
+Jets® Magazine
+Pioneering eco-efficient technology
+We help save our planet by reducing the world’s water and energy consumption.
+Change the numbers - change the world!
+Daily fresh water savings (in liters)
+2
+2
+3
+3
+6
+6
+0
+0
+4
+4
+1
+1
+1
+1
+0
+0
+Learn more
+Sustainability is fundamental
+Learn more about our ESG initiatives
+True to our business philosophy, we focus on minimising waste of our planet's most valuable resource: water. Our products and innovations are designed to create lasting value for both our customers and the environment.
+We invite you to explore our ESG report, where you can learn more about our commitment to sustainability, environmental issues, social matters, and corporate governance.
+Sustainability report 2023
+Pioneering solutions for companies worldwide
+Jets® develops eco-efficient vacuum and waste treatment technology to solve our customer's challenges - all over the world.
+We are always searching for a better, smarter and more eco-efficient way to help leading companies worldwide in a wide range of different business to face major challenges in a world that is constantly changing. We take pride in the relations we build with our customers, and we take pride in the products we deliver. This gives us the confidence to state that we are always to be trusted.
+Eco-efficient deliveries
+Maritime
+A smarter sanitary system for any vessel. The scalability of Jets® vacuum solutions allow their use in virtually any scenario.
+Read more
+Buildings
+Jets® vacuum sanitary systems are the smart choice for buildings if you want to save water, money and the environment.
+Read more
+Retail
+Remove condensate water from supermarket freezers and refrigerators with vacuum and transport it to any optional drain.
+Read more
+Mobile
+Smarter mobile solutions - anywhere. High-standard sanitation is now possible in areas with limited access to water and waste treatment.
+Read more
+Patented
+Other vacuum solutions
+Suitable for cabin and homes, discharge and pump-out stations, public toilets and priming.
+Read more
+90% less water and sewage
+Up to 75% fewer pipes
+Reliable operations with fewer parts, fewer breakdowns
+Sustainable solutions have always been at our core
+Our vision is to improve the world through pioneering technology that minimises stress on the planet’s most vulnerable resources. Our mission is to provide eco-efficient vacuum and waste treatment technology to help companies worldwide minimise their environmental footprint and to increase their profitability.
+More about sustainability
+More about Jets®
+Patented
+The heart of our system
+The unique Vacuumarator® pump is the heart of any Jets® system. It creates vacuum, macerates sewage and discharges – in one single-pass operation.
+Small footprint and low weight allow unique installation flexibility.
+The Vacuumarator® pump is the most reliable vacuum generator available for vacuum toilet systems.
+The Vacuumarator® pump provides unmatched system performance.
+Vacuumarator® pump: The heart of our system
+Award-winning design
+Vacuum toilets have a number of advantages over traditional water-flushing toilets, as they use air instead of water to transport sewage.
+Flexible installation: Vertical and horizontal pipes
+Only 1 litre of water required per flush
+No ventilation required
+High quality vacuum toilets by Jets®
+Footer
++47 700 39 100
+post@jetsgroup.com
+Facebook
+LinkedIn
+YouTube
+CORPORATION
+About Jets®
+Press
+Vacancies
+Certifications
+EXPLORE
+Jets® Magazine
+Exhibitions & events
+Hygiene
+Products
+LINKS
+Client login
+Privacy policy
+© 2024 Jets Vacuum AS
