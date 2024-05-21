@@ -1,0 +1,30 @@
+/* StatisticsPage.scss */
+.statistics-page {
+    padding: 20px;
+  }
+  
+  .stats-overview {
+    margin-bottom: 20px;
+    div {
+      margin: 5px 0;
+      font-size: 1.2em;
+    }
+  }
+  
+  .charts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  
+    .chart {
+      width: 45%;
+      margin: 20px 0;
+      h2 {
+        text-align: center;
+      }
+      canvas {
+        max-height: 400px;
+      }
+    }
+  }
+  

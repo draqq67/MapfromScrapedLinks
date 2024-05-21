@@ -31,24 +31,78 @@ def get_dataframe():
 def get_statistics():
     # Load the dataframe from a CSV file
     df_links = pd.read_csv('company_websites_with_address.csv')
-    sum = 0
-    sum2 = 0
+    extracted = 0
+    not_working_sites = 0
+    address_not_found = 0
     directory = "./text_from_links"
     
-    for i in range(len(df_links)):
+    for i in range(len(df_links) -1 ):
         # Check if the address is present and not empty
         if pd.notnull(df_links.loc[i, "address"]) and df_links.loc[i, "address"] != "":
-            sum += 1
-        try:
-            with open(f"{directory}/text_link_{i}.txt", "r") as f:
-                lines = f.readlines()
-                text = " ".join(lines)
-                if len(text) < 10:
-                    sum2 += 1
-        except FileNotFoundError:
-            sum2 += 1
-    
-    return jsonify({"extracted": sum, "empty": sum2})
+            extracted += 1
+        with open(f"{directory}/text_link_{i}.txt", "r") as f:
+            lines = f.readlines()
+            text = " ".join(lines)
+            if len(text) < 100:
+                not_working_sites += 1
+            else :
+                address_not_found += 1
+    data = requests.get(f"http://localhost:5000/api/geocode").json()
+    countries = {}
+    # search countries in here fron the data json 
+    #  "long_name": "United States",
+    #           "short_name": "US",
+    #           "types": [
+    #             "country",
+    #             "political"
+    #           ]
+    #         },
+    usa_counties ={}
+    usa_cities = {}
+    uk_counties = {}
+    uk_cities = {}
+    for address in data:
+        for address_data in address['geocode_data']['results']:
+            for component in address_data['address_components']:
+                if "country" in component['types']:
+                    if component['long_name'] in countries:
+                        countries[component['long_name']] += 1
+                    else:
+                        countries[component['long_name']] = 1  
+                if component['long_name'] == "United States":
+                    for county in address_data['address_components']:
+                        if "administrative_area_level_1" in county['types']:
+                            if county['long_name'] in usa_counties:
+                                usa_counties[county['long_name']] += 1
+                            else:
+                                usa_counties[county['long_name']] = 1
+                        #add locality count
+                        if "locality" in county['types']:
+                            if county['long_name'] in usa_cities:
+                                usa_cities[county['long_name']] += 1
+                            else:
+                                usa_cities[county['long_name']] = 1
+                if component['long_name'] == "United Kingdom":
+                    for county in address_data['address_components']:
+                        if "administrative_area_level_1" in county['types']:
+                            if county['long_name'] in uk_counties:
+                                uk_counties[county['long_name']] += 1
+                            else:
+                                uk_counties[county['long_name']] = 1
+                        if "postal_town" in county['types']:
+                            if county['long_name'] in uk_counties:
+                                uk_cities[county['long_name']] += 1
+                            else:
+                                uk_cities[county['long_name']] = 1
+                    
+    return jsonify({"extracted": extracted, 
+                    "empty": not_working_sites,
+                    "countries": countries, 
+                    "address_not_found": address_not_found,
+                    "usa_counties": usa_counties,
+                    "uk_counties": uk_counties,
+                    "usa_cities": usa_cities,
+                    "uk_cities": uk_cities})
 
 @app.route('/api/geocode', methods=['GET'])
 def get_geocode():
