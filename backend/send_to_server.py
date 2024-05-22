@@ -49,14 +49,6 @@ def get_statistics():
                 address_not_found += 1
     data = requests.get(f"http://localhost:5000/api/geocode").json()
     countries = {}
-    # search countries in here fron the data json 
-    #  "long_name": "United States",
-    #           "short_name": "US",
-    #           "types": [
-    #             "country",
-    #             "political"
-    #           ]
-    #         },
     usa_counties ={}
     usa_cities = {}
     uk_counties = {}

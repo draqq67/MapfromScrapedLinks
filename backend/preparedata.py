@@ -6,6 +6,7 @@ import json
 
 df_links = pq.read_table("list of company websites.snappy.parquet").to_pandas()
 # print(df_links.head())
+API_KEY = "AIzaSyA7HVl51-Q-QWMotQfWU87ZEdCADSkpGU0"
 
 for i in range(len(df_links)):
     if not df_links.loc[i, "domain"].startswith("http"):
@@ -61,8 +62,7 @@ def stats():
             
     print(df_links.head())
 
-def geocode():
-    API_KEY = "AIzaSyA7HVl51-Q-QWMotQfWU87ZEdCADSkpGU0"
+def geocode(API_KEY):
     GEOCODING_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
     response = requests.get('http://127.0.0.1:5000/api/data')
     data = response.json()
@@ -81,7 +81,6 @@ def geocode():
                     'address': address,
                     'geocode_data': geocode_data
                 })
-    #create a json file with the geocode results
     with open('geocode_results.json', 'w') as f:
         json.dump(geocode_results, f)
-geocode()
+geocode(API_KEY)

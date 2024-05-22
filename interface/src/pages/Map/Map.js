@@ -70,7 +70,7 @@ function Map() {
         <GoogleMap
           mapContainerStyle={containerStyle}
           center={markers.length > 0 ? markers[0] : center}
-          zoom={mapZoom} // Utilizează starea mapZoom pentru a seta nivelul de zoom al hărții
+          zoom={mapZoom} 
         >
           {loading && (
             <div class="loading loading01">
