@@ -21,14 +21,14 @@ cd interface
 npm i 
 npm start
 ```
--in a new terminal
+-in a new terminal run the flask server
 ```
 cd MapfromScrappedLinks/backend
 python3 send_to_server.py
 ```
 - if is not working consider installing into virtual env the following:
   ```
-  python3 -m vend path/to/dir/MapfromScrappedLinks/backend
+  python3 -m venv path/to/dir/MapfromScrappedLinks/backend
   pip install flask
   pip install pandas
   pip install requests
