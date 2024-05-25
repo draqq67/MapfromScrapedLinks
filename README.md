@@ -1,4 +1,6 @@
 # Veridion Challenge 1
+realised by Zarnescu Dragos - Ioan for Deeptech Engineer Intern
+
 Write a program that extracts all the valid addresses that are found on a list of company websites. The format in which you will have to extract this data is the following: country, region, city, postcode, road, and road numbers. 
 - presentation : https://docs.google.com/presentation/d/1OwlcNwEXhezbCsmk6yOEEiYRX4pLBNzE6ijVW6NX4bs/edit?usp=sharing
 ## Project Overview
