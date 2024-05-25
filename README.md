@@ -16,19 +16,19 @@ Write a program that extracts all the valid addresses that are found on a list o
 ## How to run
 -run the front-end application
 ```
-git clone https://github.com/draqq67/MapfromScrapedLinks.git
+git clone https://github.com/draqq67/MapfromScrappedLinks.git
 cd interface
 npm i 
 npm start
 ```
 -in a new terminal
 ```
-cd MapfromScrapedLinks/backend
+cd MapfromScrappedLinks/backend
 python3 send_to_server.py
 ```
 - if is not working consider installing into virtual env the following:
   ```
-  python3 -m vend path/to/dir/MapfromScrapedLinks/backend
+  python3 -m vend path/to/dir/MapfromScrappedLinks/backend
   pip install flask
   pip install pandas
   pip install requests
